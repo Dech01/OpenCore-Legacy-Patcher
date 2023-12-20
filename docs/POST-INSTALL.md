@@ -8,13 +8,13 @@
 
 Once you've installed macOS through OpenCore, you can boot up and go through the regular install process. To boot without the USB drive plugged in is quite simple:
 
-* Download OpenCore Legacy Patcher
+* Download OpenCore Legacy Patcher OR USE THE ONE YOU LIKELY ALREADY HAVE
 * Change Patcher settings as you'd like
 * Build OpenCore again
-* Install OpenCore to internal drive
-* Reboot holding Option, and select the internal EFI
+* Install OpenCore to internal drive You may not see much in the way of options here; presumably anywhere is OK if it is "internal" eg Pictures/Music/Desktop
+* Reboot holding Option, and select the internal EFI - At some stage you may have two icons with EFI in their titles; select the one with some name akin to OCLP
 
-And voila! No more USB drive required.
+And voila! No more USB drive required.  No need to search terminology sources; "voila" is not an additional and obscure step but a French word used in some English speaking demographics to indicate "it is accomplished".
 
 ## Booting seamlessly without Boot Picker
 
