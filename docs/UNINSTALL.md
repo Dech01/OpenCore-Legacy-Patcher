@@ -4,7 +4,7 @@
 
 1. Remove OpenCore either from the USB or internal drive
 
-  * You'll need to mount the drive's EFI partition, and delete the `EFI/OC` and `System` folders
+  * You'll need to mount the drive's EFI partition, and delete the `EFI/OC` and `System` folders (Do your own research as to how to do this and don't open the following link except for droll amusement)
     * Note: **Do not** delete the entire EFI folder, this will likely break any existing Windows and Linux installations.
     * [See here for an example on how to mount](https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html)
     * For 5K iMac users, you will also need to delete `boot.efi` on the root of the EFI partition.
