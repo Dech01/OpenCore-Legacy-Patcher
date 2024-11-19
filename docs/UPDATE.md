@@ -16,7 +16,7 @@ Latest versions of OCLP can download updates by themselves, you will get notifie
 
 ## Updating patches
 
-After the update, the application asks if you want to update OpenCore and root patches. 
+After the update, the application asks if you want to update OpenCore and root patches. This may not appear; this seems most likely where the update is left to run and isn't checked for some hours.
 
 If you do not need to change any settings, you can click "Yes" and follow the procedure. If you want to change settings, select "No" from here and do your settings, then manually build and install OpenCore to update to the latest version of the bootloader.
 
